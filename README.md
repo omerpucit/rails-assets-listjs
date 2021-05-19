@@ -9,9 +9,7 @@ This gem was automatically generated. You can visit [rails-assets.org](https://r
 Add rails-assets source block to your `Gemfile`:
 
 ```ruby
-source "https://rails-assets.org" do
-  gem "rails-assets-listjs"
-end
+gem "rails-assets-listjs"
 
 ```
 
